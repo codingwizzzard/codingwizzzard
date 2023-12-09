@@ -2,6 +2,8 @@
 <p align="center" display="block"><img src="https://readme-typing-svg.herokuapp.com/?size=30&duration=5001&color=2d7e5e&vCenter=true&center=true&width=460&lines=full-stack+developer"</p>
 <h3 align="center"></h3>
 
+<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" align="right" alt="Coding" width="400">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshshah181205&label=Profile%20views&color=0e75b6&style=flat" alt="harshshah181205" /> </p>
 
 - 🔭 I’m currently working on **Web Designing and development**
