@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Javascript**
 
-- 👨‍💻 All of my projects are available at [https://harshshah181205.github.io/Portfolio/](https://harshshah181205.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [https://codingwizzard.github.io/Portfolio/](https://codingwizzard.github.io/Portfolio/)
 
 - 💬 Ask me about **Web design and development**
 
@@ -27,7 +27,7 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://deepk2891.github.io/DeepKothari.me/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://codingwizzard.github.io/Portfolio/)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 [![Bootstrap 5](https://img.shields.io/badge/Bootstrap_5-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/docs/5.0/)
@@ -41,11 +41,11 @@
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
 ### 🔥 &nbsp; My Stats :
-<a width='180em' href="https://github.com/harshshah181205">
+<a width='180em' href="https://github.com/codingwizzard">
   <p><img height=180em align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshshah181205&show_icons=true&locale=en&layout=compact&langs_count=8&theme=tokyonight" alt="harshshah181205" /></p>
 </a>
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshshah181205&show_icons=true&locale=en" alt="harshshah181205" /></p> -->
-<a width='180em' href="https://github.com/harshshah181205">
+<a width='180em' href="https://github.com/codingwizzard">
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshshah181205&&layout=compact&langs_count=8&theme=tokyonight" alt="harshshah181205" /></p>
 </a>
 <font><i>From pixels to databases, I'm the wizard behind the screen. Dive into my repository and witness the magic of a Full Stack Developer in action.,</i></font>
