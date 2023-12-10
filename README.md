@@ -45,7 +45,7 @@
 <br><br>
 ### 🔥 &nbsp; My Stats :
 <a width='180em' href="https://github.com/codingwizzzard">
-  <p><img height=180em align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshshah181205&show_icons=true&locale=en&layout=compact&langs_count=8&theme=tokyonight" alt="harshshah181205" /></p>
+  <p><img height=180em align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=codingwizzzard&show_icons=true&locale=en&layout=compact&langs_count=8&theme=tokyonight" alt="codingwizzzard" /></p>
 </a>
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshshah181205&show_icons=true&locale=en" alt="harshshah181205" /></p> -->
 <a width='180em' href="https://github.com/codingwizzzard">
